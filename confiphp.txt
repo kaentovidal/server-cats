@@ -2,3 +2,36 @@
 
 
 /etc/apache2/httpd
+
+
+### modificando la ruta de documento principal
+
+vim /etc/apache2/sites-available/000-default.conf
+
+
+
+
+### INTALANDO mysqli 
+# en el contenedor de php
+
+docker-php-ext-install mysqli
+
+## el archivo se ecuentra en la siguiente ruta:
+
+/usr/local/lib/php/extensions/no-debug-non-zts-20151012
+
+## para agregarlo nos dirigimos a la ruta:
+
+/usr/local/etc/php/
+
+## agregamos la ruta al archivo php.ini
+
+extension = /usr/local/lib/php/extensions/no-debug-non-zts-20151012/mysqli.os
+
+
+
+
+
+
+
+

@@ -8,7 +8,7 @@ session_start();
 
 if (!isset($_SESSION['loggedin'])) {
 
-    header('Location: ../html/login.html');
+    header('Location: ./html/login.html');
     exit;
 }
 
