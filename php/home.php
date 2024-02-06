@@ -8,7 +8,7 @@ session_start();
 
 if (!isset($_SESSION['loggedin'])) {
 
-    header('Location: ./html/login.html');
+    header('Location: ../html/login.html');
     exit;
 }
 
@@ -67,7 +67,7 @@ if (!isset($_SESSION['loggedin'])) {
   <div class="p-5 text-center bg-body-tertiary">
     <h1 class="mb-3">PROYECTO DE PAO 05</h1>
     <h4 class="mb-3">Tecnologias de la información</h4>
-    <h4 class="mb-3">Lita de Productos</h4>
+    <h4 class="mb-3">Lista de Productos</h4>
   </div>
   <!-- Jumbotron -->
 </header>
