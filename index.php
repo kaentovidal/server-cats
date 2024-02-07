@@ -47,7 +47,7 @@ if (!isset($_SESSION['loggedin'])) {
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="logout.php">Cerrar Sesion</a>
+            <a class="nav-link" href="php/logout.php">Cerrar Sesion</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">About</a>
