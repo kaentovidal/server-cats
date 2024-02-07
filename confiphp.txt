@@ -1,6 +1,3 @@
-/usr/local/etc/php
-
-
 /etc/apache2/httpd
 
 
