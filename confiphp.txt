@@ -15,10 +15,11 @@ vim /etc/apache2/sites-available/000-default.conf
 # en el contenedor de php
 
 docker-php-ext-install mysqli
+docker-php-ext-enable mysqli
 
 ## el archivo se ecuentra en la siguiente ruta:
 
-/usr/local/lib/php/extensions/no-debug-non-zts-20151012
+/usr/local/lib/php/extensions/no-debug-non-zts-20190902
 
 ## para agregarlo nos dirigimos a la ruta:
 
@@ -26,7 +27,9 @@ docker-php-ext-install mysqli
 
 ## agregamos la ruta al archivo php.ini
 
-extension = /usr/local/lib/php/extensions/no-debug-non-zts-20151012/mysqli.os
+mv nombreviejoarchivo1 nombrenuevoarchivo1
+
+extension = /usr/local/lib/php/extensions/no-debug-non-zts-20190902/mysqli.so
 
 
 
