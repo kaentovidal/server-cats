@@ -3,7 +3,7 @@
 
 ### modificando la ruta de documento principal
 
-vim /etc/apache2/sites-available/000-default.conf
+nano /etc/apache2/sites-available/000-default.conf
 
 
 
