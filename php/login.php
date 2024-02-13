@@ -2,9 +2,9 @@
 session_start();
 
 //Credenciales de acceso a la Base de Datos
-$DATABASE_HOST = 'localhost';
+$DATABASE_HOST = 'mysql';
 $DATABASE_USER = 'root';
-$DATABASE_PASS = '';
+$DATABASE_PASS = 'root';
 $DATABASE_NAME = 'clusterpao5';
 
 //Conexion a la Base de Datos

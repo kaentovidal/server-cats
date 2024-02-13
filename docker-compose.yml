@@ -12,7 +12,7 @@ services:
       MYSQL_ROOT_PASSWORD: root
 
   mongo:
-    image: mongo:4.0
+    image: mongo:4.2
     container_name: mongo
     volumes:
       - ./mongodb/:/data/db
@@ -21,7 +21,6 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: admin
       MONGO_INITDB_ROOT_PASSWORD: admin
-    command: --auth --tlsMode requireSSL
 
   php:
     image: php:7.4-apache
@@ -29,7 +28,7 @@ services:
     ports:
       - "80:80"
     volumes:
-      - ./htdocs/:/var/www/html
+      - /home/dataproc/server-cats/:/var/www/html
     links:
       - mysql
       - mongo

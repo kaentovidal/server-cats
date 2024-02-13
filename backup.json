@@ -1,0 +1,860 @@
+[{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb18"
+  },
+  "NUMERO SERIE": "C2:14N0AT3S0K6",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "HP",
+  "MODELO": "HP SMART TANK 500 ",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "*Inyección térmica de tinta HP *Capacidad de copia en color *256 MB; Memoria integrada *Voltaje de entrada 100 a 240 VCA (+/- 10%), 50/60 Hz (+/- 3 Hz",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb19"
+  },
+  "NUMERO SERIE": "YC5RH9LB603780J",
+  "CATEGORIA": "MONITOR",
+  "MARCA": "SAMSUNG",
+  "MODELO": "MONITOR LCD SAMSUNG ",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "MONITOR SAMSUNG 19 ”\nMonitor Samsung Modelo B1930N\nSync Master B1930\nColor Negro\nCódigo Modelo LS19PUYKF/ZM\nContraste dinámico 50000:1",
+  "F": {
+    " FABRICACIÓN": "00-06-2011"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb1a"
+  },
+  "NUMERO SERIE": "408NDBP3Y349",
+  "CATEGORIA": "MONITOR",
+  "MARCA": "LG",
+  "MODELO": "MONITOR LG LED M35",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Tamaño de Pantalla 19.5\" *Relación de Aspecto 16:9 *Brillo (cd/m2) 200 *Tipo de Panel TN",
+  "F": {
+    " FABRICACIÓN": "00-08-2014"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb1b"
+  },
+  "NUMERO SERIE": "612IEBS1S205",
+  "CATEGORIA": " MONITOR",
+  "MARCA": "LG",
+  "MODELO": "MONITOR LG LED   ",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "DIAGONAL 17\"   RESOLUCION 1280X1024(5:4)  Dimensiones, peso\n404x373x100 mm, 3.50 kg             Consumo de potencia\nen funcionamiento: de 35 Vatios en modo de espera: 1 W, en reposo: 1 Vatios",
+  "F": {
+    " FABRICACIÓN": "00-12-2006"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb1c"
+  },
+  "NUMERO SERIE": "707UXVW25279",
+  "CATEGORIA": "MONITOR",
+  "MARCA": "LG",
+  "MODELO": "MONITOR LG LCD  ",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Tamaño de Pantalla 19\" Brillo 300 cd/m2    Contraste 700:1   Consumo de Energía 34 W",
+  "F": {
+    " FABRICACIÓN": "00-07-2007"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb1d"
+  },
+  "NUMERO SERIE": "KKWV57553",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "CANON",
+  "MODELO": "CANON MULTIFUNCTION PRINTER ",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Inyección de tinta FINA   Resolución Máxima    Peso \n7,6 libras (3,45 kg)\n4800 x 600 ppp       requerimientos de energía \n110 - 120 V, 60 Hz\n200 - 245 V, 50 H",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb1e"
+  },
+  "NUMERO SERIE": "XED206001814",
+  "CATEGORIA": "TECLADO",
+  "MARCA": "GENIUS",
+  "MODELO": "TECLADO USB GENIUS LUXEMATE I220",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "\nQWERTY ESPAÑOL CON TECLA Ñ\nBAJO RUIDO\nDELGADO Y ELEGANTE\n10 TECLAS DE FUNCION MULTIMEDIA\nCONECTOR USB\n\nQWERTY ESPAÑOL CON TECLA Ñ\nBAJO RUIDO\nDELGADO Y ELEGANTE\n10 TECLAS DE FUNCION MULTIMEDIA\nCONECTOR USB\nQWERTY ESPAÑOL CON TECLA Ñ\nBAJO RUIDO\nDELGADO Y ELEGANTE\n10 TECLAS DE FUNCION MULTIMEDIA\nCONECTOR USB",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb1f"
+  },
+  "NUMERO SERIE": "SIN SERIAL",
+  "CATEGORIA": "TECLADO",
+  "MARCA": "GENIUS",
+  "MODELO": "TECLADO GENIUS MODEL K627",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "ConnectIvidad\nWired",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb20"
+  },
+  "NUMERO SERIE": "11B71506268",
+  "CATEGORIA": "ROUTER",
+  "MARCA": "TP- LINK",
+  "MODELO": "54Mbps Wireless ADSL2+ Modem Router",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Multidifusión IGMP\n Puerto VLAN  Firewalls activos triples: SPI, NAT y filtro de paquetes  Enrutador Ethernet de 4 puertos y punto de acceso inalámbrico G",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb21"
+  },
+  "NUMERO SERIE": "3,8321E+12",
+  "CATEGORIA": "TECLADO",
+  "MARCA": "NIUTEK",
+  "MODELO": "TECLADO NIUTEK ",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "ConnectIvidad Wired",
+  "F": {
+    " FABRICACIÓN": "00-08-2010"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb22"
+  },
+  "NUMERO SERIE": "WXC908LE4470",
+  "CATEGORIA": "DISCO DURO ",
+  "MARCA": "WD SCORPIO ",
+  "MODELO": "DISCO DURO WD SCORPIO",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Drive Type(s) Supported\nHDD\nSATA Form Factor 2.5 in\n",
+  "F": {
+    " FABRICACIÓN": "21/9/2008"
+  },
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb23"
+  },
+  "NUMERO SERIE": "91L3FSGXS",
+  "CATEGORIA": "DISCO DURO ",
+  "MARCA": "TOSHIBA",
+  "MODELO": "DISCO DURO TOSHIBA ",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Velocidad (rpm) 5400rpm\nInterfaz SATA II (3.0 Gb/s)\nMemoria Caché 8 MB\nFactor de Forma 2.5\" 640 GB",
+  "F": {
+    " FABRICACIÓN": "21/9/2011"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb24"
+  },
+  "NUMERO SERIE": "W162D/CSBN",
+  "CATEGORIA": "DVD R/RW",
+  "MARCA": "SAMSUNG",
+  "MODELO": "DVD R/RW DRIVE MODEL SH-W162 ",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "DVD+RW 8X (10,8 MB/seg) 8X (10,8 MB/seg)  Memoria intermedia 2MB",
+  "F": {
+    " FABRICACIÓN": "00-07-2006"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb25"
+  },
+  "NUMERO SERIE": "RV1G50FYNVA",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "SAMSUNG",
+  "MODELO": "Samsung Galaxy Grand 2\nMOBILE PHONE\n",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Samsung Galaxy Gran 2 SM-G7106 Dual-Sim\nPeso 163 gramos\nTipo de pantalla TFT LCD",
+  "F": {
+    " FABRICACIÓN": "00-01-2014"
+  },
+  "LUGAR DE ORIGEN": "China",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb26"
+  },
+  "NUMERO SERIE": "YHLBLUSTX PLUS",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "BLU",
+  "MODELO": "BLU Studio X Plus\n",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": " Buena densidad de pixels (267ppi)\n Pantalla grande (5.5\")\n Procesador quad-core\n SIM dual",
+  "F": {
+    " FABRICACIÓN": "00-03-2015"
+  },
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": "170g",
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb27"
+  },
+  "NUMERO SERIE": "R21F22TCZRP",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "SAMSUNG",
+  "MODELO": "SAMSUNG GT-E1205",
+  "ESTADO": "DESUSO ",
+  "F": {
+    " FABRICACIÓN": "00-14-2002"
+  },
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": "65g"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb28"
+  },
+  "NUMERO SERIE": "PPIRM-237",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "NOKIA",
+  "MODELO": "RM-237",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "HUNGARY",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb29"
+  },
+  "NUMERO SERIE": "R58J20EK6TE",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "SAMSUNG",
+  "MODELO": "SM-G532M",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "VIETNAM",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb2a"
+  },
+  "NUMERO SERIE": "RV8H9063KFV",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "SAMSUNG",
+  "MODELO": "SM-J320M",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb2b"
+  },
+  "NUMERO SERIE": "YA1G922XS/2-B",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "SAMSUNG",
+  "MODELO": "J1-L1",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb2c"
+  },
+  "NUMERO SERIE": "R21H713Q92P",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "SAMSUNG",
+  "MODELO": "SM-J105B",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb2d"
+  },
+  "NUMERO SERIE": "X2C5366381",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "EPSON",
+  "MODELO": "XP-440",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Especial:sin cables, Color:negro,SO: Windows y Mac",
+  "F": {
+    " FABRICACIÓN": "4/10/2021"
+  },
+  "LUGAR DE ORIGEN": "TAILANDIA",
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb2e"
+  },
+  "NUMERO SERIE": "KLWY74452",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "CANON",
+  "MODELO": "G3100",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "VIETNAM",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb2f"
+  },
+  "NUMERO SERIE": "BR1237F649",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "HP",
+  "MODELO": "Hp Ink tank WIRELESS415",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "BRASIL",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb30"
+  },
+  "NUMERO SERIE": " 5246J9BZA00446",
+  "CATEGORIA": "DISCO DURO ",
+  "MARCA": "SAMSUNG",
+  "MODELO": "SP25035J",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "KOREA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb31"
+  },
+  "NUMERO SERIE": "R8B26GCB395117",
+  "CATEGORIA": "UNIDAD DE CD",
+  "MARCA": "SPEAD PLUS SAMSUNG",
+  "MODELO": "DVD Writer Model SH-222",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "FHILIPPINES",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb32"
+  },
+  "NUMERO SERIE": "A3L5M5250M",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "SAMSUNG",
+  "MODELO": "SM-J250M/DS",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "KOREA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb33"
+  },
+  "NUMERO SERIE": "A3L5M5700M",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "SAMSUNG",
+  "MODELO": "SM-J700M",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb34"
+  },
+  "NUMERO SERIE": "WCC2EUL77241",
+  "CATEGORIA": "DISCO DURO ",
+  "MARCA": "WD ",
+  "MODELO": "WD5000AAKX-00U6AA0",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "TAILANDIA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb35"
+  },
+  "CATEGORIA": "PLACA MADRE",
+  "MODELO": "H61MU-E35(B3)",
+  "ESTADO": "DESUSO ",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb36"
+  },
+  "NUMERO SERIE": "IMKFD014071100638",
+  "MARCA": "IMICROHPC",
+  "MODELO": "PS-IM400WH",
+  "ESTADO": "DESUSO ",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb37"
+  },
+  "NUMERO SERIE": "KYLIN4000038317227",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "IPRÓ",
+  "MODELO": "KYLIN 4.0",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb38"
+  },
+  "NUMERO SERIE": "BEJGB100A",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "LG",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb39"
+  },
+  "NUMERO SERIE": "L2GDP1000",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "DOPPIO",
+  "MODELO": 1000,
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb3a"
+  },
+  "NUMERO SERIE": "A3LET19192",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "NOKIA",
+  "MODELO": "GT-19192",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb3b"
+  },
+  "NUMERO SERIE": 5440015,
+  "CATEGORIA": "CELULAR",
+  "MARCA": "NOKIA",
+  "MODELO": 2610,
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "GERMANY",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb3c"
+  },
+  "NUMERO SERIE": "RAD002",
+  "CATEGORIA": "CELULAR",
+  "MARCA": "ALCATEL",
+  "MODELO": "SUPTEL",
+  "ESTADO": "DESUSO ",
+  "LUGAR DE ORIGEN": "MEXICO",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb3d"
+  },
+  "NUMERO SERIE": "A3LETP1000",
+  "CATEGORIA": "TABLET",
+  "MARCA": "SAMSUNG",
+  "LUGAR DE ORIGEN": "KOREA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb3e"
+  },
+  "NUMERO SERIE": "BTHC017001D2",
+  "CATEGORIA": "CPU",
+  "MARCA": "INTEL",
+  "MODELO": "DH55HC",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Fuente de poder Speedmind SMPS600 SWLong Power Supply\nDisco duro WD Blue 500GB WD5000AAKX\n",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb3f"
+  },
+  "NUMERO SERIE": "BR1237F649",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "HP",
+  "MODELO": "SNPRH-1506-01",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "HP Ink Tank Wireless 415",
+  "LUGAR DE ORIGEN": "BRAZIL",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb40"
+  },
+  "NUMERO SERIE": "3CQ8163GCT",
+  "CATEGORIA": "MONITOR",
+  "MARCA": "HP",
+  "MODELO": "L1710",
+  "ESTADO": "DESUSO ",
+  "F": {
+    " FABRICACIÓN": "1/5/2008"
+  },
+  "LUGAR DE ORIGEN": "HOUSTON - TEXAS",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb41"
+  },
+  "NUMERO SERIE": "TX220",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "EPSON",
+  "MODELO": "C351F",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Epson Stylus",
+  "LUGAR DE ORIGEN": "FILIPINAS",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb42"
+  },
+  "NUMERO SERIE": "L495",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "EPSON",
+  "MODELO": "C462R",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Funciones sin pc",
+  "LUGAR DE ORIGEN": "FILIPINAS"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb43"
+  },
+  "NUMERO SERIE": "KJEB31962",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "CANON",
+  "MODELO": "K10447",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Multifunction Printer\nSafety Mark",
+  "LUGAR DE ORIGEN": "VIETNAM",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb44"
+  },
+  "NUMERO SERIE": "TH0911B01P",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "APOLLO",
+  "MODELO": "P-1200",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": " Power by Hewlett-Packard\nTested to Comply with FCC Standards",
+  "LUGAR DE ORIGEN": "TAILANDIA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb45"
+  },
+  "NUMERO SERIE": "KJEB31962",
+  "CATEGORIA": "IMPRESORA",
+  "MARCA": "CANON",
+  "MODELO": "Pixma 62520",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Inyeccion de tinta \nEntrada de USB",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb46"
+  },
+  "NUMERO SERIE": "3CF012FC4H",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "HP",
+  "MODELO": "G62-149WM",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "Disco duro 250 GBMemoria interna 4GB,\nTipo de memoria interna DDR3-SDRAM,\nModelo del procesador i5-430M,\nFrecuencia del procesador 2.26 GHz",
+  "F": {
+    " FABRICACIÓN": "19/1/2011"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb47"
+  },
+  "NUMERO SERIE": "5CD2117TMK",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "HP",
+  "MODELO": "g4-1350Ia",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Disco duro 500 GB\n2. Memoria interna 2GB\n3. Tipo de memoria interna DDR3-SDRAM\n4. Modelo del procesador E-450\n5. Frecuencia del procesador 1.65 GHz",
+  "F": {
+    " FABRICACIÓN": "11/5/2012"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb48"
+  },
+  "NUMERO SERIE": "Aspire 5741Z",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "Acer",
+  "MODELO": "NEW70",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Disco duro 320GB\n2. Memoria interna 4GB\n3. Frecuencia del procesador 1.86GHz\n4. Intel HD Graphics",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb49"
+  },
+  "NUMERO SERIE": "CNU0253S9M",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "HP",
+  "MODELO": "CPQ515UQL",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Compaq 515\n2. Procesador AMD Athlon X2 QL-64, (2.1GHz)\n3. Memoria de 1GB DDR II\n4. Disco Duro de 160GB",
+  "F": {
+    " FABRICACIÓN": "28/7/2010"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb4a"
+  },
+  "NUMERO SERIE": "E145483",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "DELL",
+  "MODELO": "PP41L",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Inspiron 1545\n2. Memoria de 2GB DDR II\n3. Disco Duro de 250GB\n4. Procesador Intel Pentium T4300 (2.1GHz, 800Mhz, 1M L2 Cache)",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb4b"
+  },
+  "NUMERO SERIE": "9C052364C",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "TOSHIBA",
+  "MODELO": "PSCB2P-005LM2",
+  "ESTADO": "DESUSO ",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb4c"
+  },
+  "NUMERO SERIE": "SLR4Z027",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "LENOVO",
+  "MODELO": "THINKPAD",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Intel Core i3 2,2GHz\n2. RAM 2GB\n3. Disco duro 320GB",
+  "F": {
+    " FABRICACIÓN": "6/12/2011"
+  },
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb4d"
+  },
+  "NUMERO SERIE": "5CG2450N9D",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "HP",
+  "MODELO": "1000-1215LA",
+  "ESTADO": "DESUSO ",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb4e"
+  },
+  "NUMERO SERIE": "67067304R",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "TOSHIBA",
+  "MODELO": "PSL40U-041000",
+  "ESTADO": "DESUSO ",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb4f"
+  },
+  "NUMERO SERIE": "LXA51060205510EC46EM00",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "Acer",
+  "MODELO": "Aspire 5000 series ZL5",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Bateria Li-ion\n2. 1GB Ram\n3. Procesador 1.6GHz",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb50"
+  },
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "Sony Vaio",
+  "MODELO": "PCG-7Z1L",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Core 2 Duo T450\n2. Procesador 1,66 GHz\n3. 2 GB Ram\n4. Disco duro 180GB",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb51"
+  },
+  "NUMERO SERIE": "96F60000109Q63300271",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "zeion",
+  "MODELO": "536S",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Bateria Li-ion\n2. Procesador AMD Mobile Sempron 2600+\n3. Procesador 1.83GHz\n4. Memoria de 256MB DDR\n5. Disco duro 40GB",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb52"
+  },
+  "NUMERO SERIE": {
+    "$numberLong": "6904531477"
+  },
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "DELL",
+  "MODELO": "Latitude E6400",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Procesador 2.43GHz\n2. Disco duro 250GB\n3. 4GB Ram",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb53"
+  },
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "HP",
+  "MODELO": "14-ac136tu ,Maroon",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Procesador Intel 1.60GHz\n2. Disco duro 500GB\n3. Memoria Ram2GB ",
+  "F": {
+    " FABRICACIÓN": "dic-13"
+  },
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb54"
+  },
+  "NUMERO SERIE": "2350147301116l",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "emachines",
+  "MODELO": "PAWF5",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. E527 series\n2. Bateria Li-ion\n3. Procesador Intel Celeron 2.20GHz\n4. Memoria Ram 4GB\n5. Disco duro 500GB",
+  "LUGAR DE ORIGEN": "CHINA",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+},
+{
+  "_id": {
+    "$oid": "6580d664916ca732cf34cb55"
+  },
+  "NUMERO SERIE": "2450367403205l",
+  "CATEGORIA": "LAPTOP",
+  "MARCA": "TOSHIBA",
+  "MODELO": "P745D-S4240",
+  "ESTADO": "DESUSO ",
+  "CARACTERISTICA": "1. Procesador 1.4 GHz\n2. Memoria Ram 6GB\n3. Disco duro 640GB",
+  "LUGAR DE ORIGEN": "Ch+B25:G26ina",
+  "PESO": 0,
+  "PROCEDENCIA": "Morona Santiago - Macas"
+}]

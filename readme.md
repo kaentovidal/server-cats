@@ -1,7 +1,7 @@
 # WEBSITE USING CLUSTER DATAPROG FORM GOOGLE CLOUD PLATFORM
 
-Google has an option to test its services with a credit of 300 dollars for the use of the platform. Try it for free from here
-https://cloud.google.com/
+Google has an option to test its services with a credit of 300 dollars for the use of the platform. Try it for free from [here](https://cloud.google.com/).
+
 
 Once you get the proof, the first thing to do is to create a project. Then the [bucket](https://cloud.google.com/storage/docs/buckets) on which the project will be hosted. 
 
@@ -14,6 +14,22 @@ gcloud beta dataproc clusters create cluster_name --enable-component-gateway --b
 When the cluster has been created in the search bar type cluster and select the cluster dataproc option where the cluster will be shown by double clicking on it we can enter the cluster and its options where the **web interfaces** field appears. We select this option and once there we select Jupyter Lab. Inside Jupyter Lab we have several options of which we select the terminal.
 
 Once we select the terminal we will have access to the cluster through the terminal.
+
+in the terminal go to the dataproc directory `cd /home/dataproc` and clone this repository
+```
+git clone https://github.com/kaentovidal/server-cats
+```
+enter to the repository `cd /server-cats`
+
+install docker by runnig the file `dockerinstall.sh`
+```
+bash dockerinstall.sh
+```
+raises the necessary services by executing the file `docker-compose.yml` with the following command.
+```
+docker compose up -d
+```
+
 
 
 
