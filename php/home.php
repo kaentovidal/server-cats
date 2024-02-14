@@ -42,15 +42,9 @@ if (!isset($_SESSION['loggedin'])) {
       </button>
       <div class="collapse navbar-collapse" id="navbarExample01">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item active">
-            <a class="nav-link" aria-current="page" href="#">Home</a>
-          </li>
           
           <li class="nav-item">
             <a class="nav-link" href="logout.php">Cerrar Sesion</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
           </li>
         </ul>
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -67,44 +61,12 @@ if (!isset($_SESSION['loggedin'])) {
   <div class="p-5 text-center bg-body-tertiary">
     <h1 class="mb-3">PROYECTO DE PAO 05</h1>
     <h4 class="mb-3">Tecnologias de la información</h4>
-    <h4 class="mb-3">Lita de Productos</h4>
+    <h4 class="mb-3">Lista de Productos</h4>
   </div>
   <!-- Jumbotron -->
 </header>
 <div class="container">
-<div class="table-responsive">
-  <table class="table table-striped table-bordered table-sm table-secondary border-info">
-    <thead>
-      <tr>
-        <th scope="col">Codigo</th>
-        <th scope="col">Nombre</th>
-        <th scope="col">Categoria</th>
-        <th scope="col">Estado</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row">1</th>
-        <td>Sit</td>
-        <td>Amet</td>
-        <td>Consectetur</td>
-      </tr>
-      <tr>
-        <th scope="row">2</th>
-        <td>Adipisicing</td>
-        <td>Elit</td>
-        <td>Sint</td>
-      </tr>
-      <tr>
-        <th scope="row">3</th>
-        <td>Hic</td>
-        <td>Fugiat</td>
-        <td>Temporibus</td>
-      </tr>
-    </tbody>
 
-  </table>
-</div>
 </div>
 </body>
 </html>

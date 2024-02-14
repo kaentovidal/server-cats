@@ -8,7 +8,7 @@ docker run -d --name mongo \
 mongo:4.2
 
 
-docker run -d -p 80:80 -v /home/dataproc/server-cats/:/var/www/html  --name php --link mysql --link mongo  php:7.4-apache
+docker run -d -p 80:80 -v /home/dataproc/server-cats/:/var/www/html  --name php --link mysql --link mongo  php:8-apache
 
 
 

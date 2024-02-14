@@ -1,0 +1,110 @@
+/etc/apache2/httpd
+
+
+### modificando la ruta de documento principal
+
+nano /etc/apache2/sites-available/000-default.conf
+
+
+## instalando mongodb
+
+libc-bin
+libc-dev-bin
+libc6-dev
+
+$ git clone https://github.com/mongodb/mongo-php-driver.git
+$ cd mongo-php-driver
+$ git submodule update --init
+$ phpize
+$ ./configure
+$ make all
+$ sudo make install
+
+pecl list | grep mongodb
+
+
+
+curl -sS https://getcomposer.org/installer | php -- \
+--install-dir=/var/www/html --filename=composer
+
+composer require mongodb/mongodb
+
+### INTALANDO mysqli 
+# en el contenedor de php
+apt-get install unzip
+docker-php-ext-install mysqli
+
+
+## el archivo se ecuentra en la siguiente ruta:
+
+cd /usr/local/lib/php/extensions/no-debug-non-zts-20190902
+
+## para agregarlo nos dirigimos a la ruta:
+
+cd /usr/local/etc/php/
+
+## agregamos la ruta al archivo php.ini
+
+mv nombreviejoarchivo1 nombrenuevoarchivo1
+
+extension = /usr/local/lib/php/extensions/no-debug-non-zts-20230831/mongodb.so
+
+
+<?php
+
+// Cargar el autoloader de Composer
+require '../vendor/autoload.php';
+
+// Conexión a MongoDB
+$uri = "mongodb://admin:admin@mongo:27017/inventario?authSource=admin";
+$uri = "mongodb://admin:admin@mongo:27017/?authMechanism=";
+
+
+
+$client = new MongoDB\Client($uri);
+
+// Seleccionar la base de datos y la colección
+$database = $client->selectDatabase('inventario');
+$collection = $database->selectCollection('inventario');
+
+// Realizar una consulta
+$consulta = $collection->find(['nombre' => 'Juan']);
+
+// Iterar sobre los resultados
+foreach ($consulta as $documento) {
+    var_dump($documento);
+}
+
+?>
+
+mongosh --username admin --authenticationDatabase admin
+
+
+mongo -u admin -p admin --authenticationDatabase admin --host 127.0.0.1 --port 27017
+
+
+mongo --username admin --password admin --authenticationDatabase inventario
+
+
+db.createUser({
+  user: "admin",
+  pwd: "admin",
+  roles: [{ role: "readWrite", db: "inventario" }]
+})
+
+
+mongoimport --db inventario --collection inventario --file ./backup.json --jsonArray
+mongoimport --db inventario --collection inventario --file ./backup.json --jsonArray --username admin --password admin --authenticationDatabase admin
+
+
+
+db.inventario.insertMany(
+    [
+  { nombre: "Juan", edad: 25, correo: "juan@example.com" },
+  { nombre: "Ana", edad: 30, correo: "ana@example.com" },
+  { nombre: "Carlos", edad: 22, correo: "carlos@example.com" }
+]
+)
+
+db.inventario.deleteOne({"_id":ObjectId("65cb1bf072efe4635fa63e70")})
+
